@@ -1,3 +1,7 @@
+Travis generated this project on: Fri Aug 26 06:21:28 UTC 2016
+
+Github commit https://github.com/grzanka/cookiecutter-pip-docker-versioneer/commit/90f6c8e2fee77ddeeabbde50de20920fa19bb395
+
 ===============================
 cookie05
 ===============================
