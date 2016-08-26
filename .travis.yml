@@ -46,7 +46,7 @@ matrix:
             - TOXENV=packaging
             - PYPIUSER=grzankatest
             #  pypi secured password (PYPIPASS variable), you need to update it to your own if you want to use it
-            - secure: "PYPI_PASS_ENCRYPTED_TO_BE_REPLACED"
+            - secure: "Ioix2P8M6rb4TK+229AMvUBRpaorF4cIp6vCwJeMFG3Yg3BWBCOUF9Sn4FvNhqEz0kPIk0sxDdAIxd1lxEtGc8Tkc2cqpHsEs1KBs1cUC7UiEQwV8AL4EFf3OCXMoBtGS5HW4PwZp1PgN2xwcWbZ7YrGN+JqtFm68KSvxPPLFAKwmFhVxGn11epTOGBKciL5UpS0/rOw0jKsbrq1CmQO2JOVoBSZBnR+55/WL9RFmh5vYNjGahstIAAZLxgNLHqoZHs4LveayYD5WzauOzPh/e/CPGUZDDg4FioJhoFmMMZSg7SbH3Jy8Zxjy7scGlZDzoJ1m99Ih9fm2/9VPZLCsUvXD9y9oxozYcVhlOqEx/B1joL7H76TOWto2lSDoMSB63GMmkyP7Q961YqfkXMQXf6Oe+A+ynH7+Kv9LCxP8wkLmLgUMPVs3wRlp159ftXWSr+PLLJWZ2fF74ujVGFpEtk6AUTWardGmvsXDUoCW1dQ6yu51/Fh/LEP5uqS8SkitcvwMiiL1Uid03R7uhh1mkSYmunJp+utA1HZ6/Z87qs+ee4ghBWvZ88vcOHWmNBJ5/M865cM78BWZv8MozBfTd1rA8fviufj5eu0lc2Oiofu/sFgca8LV7EnKfOcVK2Jb8xKuTM3CPwwJGMa1YFgggamQJcWhEBs6me3z9aLFaY="
         - os: osx
           language: generic
           env: TOXENV=py35

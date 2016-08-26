@@ -19,3 +19,5 @@
   prune .travis
   prune install_deps.sh
 
+include versioneer.py
+include cookie05/_version.py
